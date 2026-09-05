@@ -1,0 +1,14 @@
+1:"$Sreact.fragment"
+2:I[63780,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"Navbar"]
+3:I[85161,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"Hero"]
+4:I[20608,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"About"]
+5:I[53149,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"Ecosystem"]
+6:I[26630,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"HowToBuy"]
+7:I[23985,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"TokenStats"]
+8:I[75718,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"Roadmap"]
+9:I[76841,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/53d6d235746bac3d.js"],"Footer"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/42e1cb352d18d2f8.css","style"]
+0:{"buildId":"gI8q2PZvCSwEcI9ZEmHNX","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen w-full bg-black overflow-x-hidden scroll-smooth","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","div",null,{"id":"about","children":["$","$L4",null,{}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","div",null,{"id":"tokenomics","children":["$","$L7",null,{}]}],["$","$L8",null,{}],["$","$L9",null,{}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/42e1cb352d18d2f8.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/53d6d235746bac3d.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"loading":null,"isPartial":false}
+c:null

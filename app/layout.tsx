@@ -96,12 +96,7 @@ export const metadata: Metadata = {
       'max-video-preview': -1,
     },
   },
-  verification: {
-    google: 'google-site-verification-code',
-    yandex: 'yandex-verification-code',
-    yahoo: 'yahoo-verification-code',
-    bing: 'bing-verification-code',
-  },
+  
 }
 
 export default function RootLayout({
